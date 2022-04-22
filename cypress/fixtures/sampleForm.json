@@ -1,0 +1,35 @@
+{
+  "fields": [
+    {
+      "layout": {
+        "attachment": {
+          "href": "https://images.typeform.com/images/4BKUhw8A9cSM",
+          "type": "image"
+        },
+        "placement": "right",
+        "type": "float"
+      },
+      "properties": {
+        "alphabetical_order": false,
+        "choices": [
+          {
+            "label": "Foo"
+          },
+          {
+            "label": "Bar"
+          }
+        ],
+        "description": "Cool description for the dropdown",
+        "randomize": false
+      },
+      "ref": "nice_readable_dropdown_reference",
+      "title": "Dropdown Title",
+      "type": "dropdown",
+      "validations": {
+        "required": false
+      }
+    }
+  ],
+  "title": "Typeform created via a Cypress test",
+  "type": "quiz"
+}

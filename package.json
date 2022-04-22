@@ -1,0 +1,19 @@
+{
+  "name": "live-65-testes-de-api-com-cypress",
+  "version": "1.0.0",
+  "description": "Sample project to experiment with Typeform's API.",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "Typeform",
+    "Cypress",
+    "API-Testing"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.4"
+  }
+}
