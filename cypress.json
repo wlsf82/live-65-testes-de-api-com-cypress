@@ -1,7 +1,8 @@
 {
+  "baseUrl": "https://admin.typeform.com",
   "env": {
     "API_BASE_URL": "https://api.typeform.com/"
   },
-  "pluginsFile": false,
-  "supportFile": false
+  "experimentalSessionAndOrigin": true,
+  "pluginsFile": false
 }
